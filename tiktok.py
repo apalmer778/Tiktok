@@ -2,7 +2,7 @@ import json
 from TikTokApi import TikTokApi
 api = TikTokApi()
 
-username = 'andreas.py'
+username = # username string goes here
 
 
 
